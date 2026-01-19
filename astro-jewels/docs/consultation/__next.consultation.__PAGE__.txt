@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[76879,["/Astro_Jewels/_next/static/chunks/022c30cddbd87caf.js","/Astro_Jewels/_next/static/chunks/74c0d646e5df6232.js"],"default"]
-3:I[97367,["/Astro_Jewels/_next/static/chunks/ff1a16fafef87110.js","/Astro_Jewels/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"-XnYQtneP8ECN4zZSVM7H","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"section container","children":[["$","div",null,{"className":"text-center","style":{"marginBottom":"3rem"},"children":[["$","h1",null,{"style":{"color":"var(--color-maroon)","marginBottom":"1rem"},"children":"Book Your Astrology Consultation"}],["$","p",null,{"style":{"maxWidth":"600px","margin":"0 auto","color":"var(--color-text-light)"},"children":"Unlock the secrets of your stars. Fill in the details below to receive a personalized wedding jewellery recommendation report."}]]}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/Astro_Jewels/_next/static/chunks/74c0d646e5df6232.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null

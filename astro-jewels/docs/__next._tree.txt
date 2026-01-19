@@ -1,6 +1,0 @@
-:HL["/Astro_Jewels/_next/static/chunks/2ecc2a446e835f72.css","style"]
-:HL["/Astro_Jewels/_next/static/chunks/eea248703cae79e1.css","style"]
-:HL["/Astro_Jewels/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/Astro_Jewels/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/Astro_Jewels/_next/static/chunks/e6cc08e62b383bc6.css","style"]
-0:{"buildId":"-XnYQtneP8ECN4zZSVM7H","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
