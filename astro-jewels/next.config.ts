@@ -1,7 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  output: 'export',
+  basePath: '/Astro_Jewels',
+  assetPrefix: '/Astro_Jewels/',
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
